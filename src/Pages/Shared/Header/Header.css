@@ -1,0 +1,60 @@
+.navbar-expand-lg .navbar-nav {
+
+    align-items: center;
+}
+
+.nav-link {
+
+    font-family: 'Axiforma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 0.005em;
+
+
+
+    color: #121920;
+
+
+}
+
+
+.logo-img {
+    width: 250px;
+
+}
+
+.Sign-in {
+
+    border: 1px solid gray;
+
+    font-family: 'Axiforma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #121920;
+    border: 1px solid #121920;
+    border-radius: 8px;
+    padding: 12px 24px;
+
+}
+
+.Sign-up {
+
+
+    border: 1px solid gray;
+    margin-left: 15px;
+    background: #F22B37;
+    border-radius: 8px;
+
+    font-family: 'Axiforma';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF !important;
+    padding: 12px 24px;
+
+}
